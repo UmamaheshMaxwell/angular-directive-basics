@@ -93,7 +93,7 @@
 				}	
 
 				$scope.confirmFriend = function(){
-					$scope.notifyParent({friend : 'Krishna'});
+					$scope.notifyParent();
 				}
 			}
 		}
